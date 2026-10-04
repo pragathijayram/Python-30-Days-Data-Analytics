@@ -1,0 +1,5 @@
+Month,Product,Sales,Status
+January,Laptop,45000,Active
+February,Mobile,30000,Active
+March,Tablet,,Pending
+April,Laptop,52000,Active
